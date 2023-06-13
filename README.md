@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_13-6-2023_201226_127 0 0 1](https://github.com/AmePrince/preview-card/assets/131150219/25099e19-00d7-4b50-89f7-3d4a6ad61ff1)
+![127 0 0 1_3002_index html(iPhone SE)](https://github.com/AmePrince/preview-card/assets/131150219/d762192f-f482-4a94-b3e6-7b34b10be838)
 
 ## My process
 
